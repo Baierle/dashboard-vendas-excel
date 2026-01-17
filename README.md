@@ -7,5 +7,5 @@ Este projeto foi desenvolvido para transformar dados brutos de vendas em informa
 - Base de dados de vendas (produtos, datas, regiões, valores).
 
 ## Como Visualizar
-1. Baixe o arquivo `dashboard_vendas.xlsx`.
+1. Baixe o arquivo `dashboard.xlsx`.
 2. Abra no Microsoft Excel (recomenda-se habilitar as macros/conteúdo se houver).
